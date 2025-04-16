@@ -115,10 +115,7 @@ Abra seu navegador e acesse o endereço IP público da sua instância EC2. Você
 
 ```http://<public-ip>```
 
-## Autores
+## Autor
 
 Rafael Gomes
 
-## Licença
-
-Este README.md cobre todos os passos necessários para configurar e testar um servidor web simples com Apache em uma instância EC2 da AWS. Certifique-se de ajustar as partes específicas, como o seu nome e o link do seu perfil GitHub.
